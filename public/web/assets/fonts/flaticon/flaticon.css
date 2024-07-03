@@ -1,0 +1,95 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("flaticon0005.ttf?15f42997a91c4716add3233091d54473") format("truetype"),
+url("flaticon0005.woff?15f42997a91c4716add3233091d54473") format("woff"),
+url("flaticon0005.woff2?15f42997a91c4716add3233091d54473") format("woff2"),
+url("flaticon0005.eot?15f42997a91c4716add3233091d54473#iefix") format("embedded-opentype"),
+url("flaticon0005.svg?15f42997a91c4716add3233091d54473#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, 
+i[class*=" flaticon-"]:before,
+span[class^="flaticon-"]:before, 
+span[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-anahata:before {
+    content: "\f101";
+}
+.flaticon-bell:before {
+    content: "\f102";
+}
+.flaticon-leaf:before {
+    content: "\f103";
+}
+.flaticon-buddha:before {
+    content: "\f104";
+}
+.flaticon-buddhas-footprint:before {
+    content: "\f105";
+}
+.flaticon-candles:before {
+    content: "\f106";
+}
+.flaticon-conch-shell:before {
+    content: "\f107";
+}
+.flaticon-temple:before {
+    content: "\f108";
+}
+.flaticon-elephant:before {
+    content: "\f109";
+}
+.flaticon-laddu:before {
+    content: "\f10a";
+}
+.flaticon-japa-mala:before {
+    content: "\f10b";
+}
+.flaticon-incense:before {
+    content: "\f10c";
+}
+.flaticon-hand:before {
+    content: "\f10d";
+}
+.flaticon-hand-1:before {
+    content: "\f10e";
+}
+.flaticon-lotus:before {
+    content: "\f10f";
+}
+.flaticon-mandala:before {
+    content: "\f110";
+}
+.flaticon-rattle:before {
+    content: "\f111";
+}
+.flaticon-stupa:before {
+    content: "\f112";
+}
+.flaticon-swastika:before {
+    content: "\f113";
+}
+.flaticon-parasol:before {
+    content: "\f114";
+}
+.flaticon-yin-yang:before {
+    content: "\f115";
+}
+.flaticon-email:before {
+    content: "\f116";
+}
+.flaticon-phone:before {
+    content: "\f117";
+}
+.flaticon-location:before {
+    content: "\f118";
+}

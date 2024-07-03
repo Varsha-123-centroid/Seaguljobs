@@ -1,0 +1,25 @@
+[04-Sep-2023 08:32:46 UTC] PHP Warning:  require(/home/iafr41dffcnw/public_html/virtual_que/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/iafr41dffcnw/public_html/virtual_que/index.php on line 34
+[04-Sep-2023 08:32:46 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/iafr41dffcnw/public_html/virtual_que/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/iafr41dffcnw/public_html/virtual_que/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/iafr41dffcnw/public_html/virtual_que/index.php on line 34
+[04-Sep-2023 08:33:16 UTC] PHP Warning:  require(/home/iafr41dffcnw/public_html/virtual_que./vendor/autoload.php): Failed to open stream: No such file or directory in /home/iafr41dffcnw/public_html/virtual_que/index.php on line 34
+[04-Sep-2023 08:33:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/iafr41dffcnw/public_html/virtual_que./vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/iafr41dffcnw/public_html/virtual_que/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/iafr41dffcnw/public_html/virtual_que/index.php on line 34
+[04-Sep-2023 08:33:18 UTC] PHP Warning:  require(/home/iafr41dffcnw/public_html/virtual_que./vendor/autoload.php): Failed to open stream: No such file or directory in /home/iafr41dffcnw/public_html/virtual_que/index.php on line 34
+[04-Sep-2023 08:33:18 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/iafr41dffcnw/public_html/virtual_que./vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/iafr41dffcnw/public_html/virtual_que/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/iafr41dffcnw/public_html/virtual_que/index.php on line 34
+[04-Sep-2023 08:33:21 UTC] PHP Warning:  require(/home/iafr41dffcnw/public_html/virtual_que./vendor/autoload.php): Failed to open stream: No such file or directory in /home/iafr41dffcnw/public_html/virtual_que/index.php on line 34
+[04-Sep-2023 08:33:21 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/iafr41dffcnw/public_html/virtual_que./vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/iafr41dffcnw/public_html/virtual_que/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/iafr41dffcnw/public_html/virtual_que/index.php on line 34
+[04-Sep-2023 08:33:33 UTC] PHP Warning:  require(/home/iafr41dffcnw/public_html/virtual_que./vendor/autoload.php): Failed to open stream: No such file or directory in /home/iafr41dffcnw/public_html/virtual_que/index.php on line 34
+[04-Sep-2023 08:33:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/iafr41dffcnw/public_html/virtual_que./vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/iafr41dffcnw/public_html/virtual_que/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/iafr41dffcnw/public_html/virtual_que/index.php on line 34
